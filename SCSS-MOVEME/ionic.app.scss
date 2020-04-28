@@ -1,0 +1,50 @@
+$ionicons-font-path: "../lib/ionic/fonts" !default;
+@import "../www/lib/ionic/scss";
+.bajo {
+	height: 40px !important;
+}
+
+.gris {
+	background-color: iron;
+}
+
+.arriba {
+	text-align: top;
+}
+
+.estrecho {
+	padding: 1px;
+}
+
+.letrachica {
+	font-size: 80%;
+}
+
+.letramedia {
+	font-size: 90%;
+}
+
+.apretado {
+	line-height: 80%;
+}
+
+.slider {
+	height: 60%;
+}
+
+* {
+    margin: 0;
+}
+html, body {
+    height: 100%;
+}
+.wrapper {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -142px; /* the bottom margin is the negative value of the footer's height */
+}
+.footer, .push {
+    height: 142px; /* .push must be the same height as .footer */
+}
+
