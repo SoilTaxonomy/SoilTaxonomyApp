@@ -3181,10 +3181,14 @@ angular.module('app.routes', [])
     }
   })
 
-  .state('fragiacultes', {
+  .state('menu.fragiacultes', {
     url: '/Fragiacultes',
-    templateUrl: 'templates/fragiacultes.html',
-    controller: 'fragiacultesCtrl'
+    views: {
+      'side-menu21': {
+        templateUrl: 'templates/fragiacultes.html',
+        controller: 'fragiacultesCtrl'
+      }
+    }
   })
 
   .state('menu.albacultes', {
@@ -3199,8 +3203,12 @@ angular.module('app.routes', [])
 
   .state('kandiacultes', {
     url: '/Kandiacultes',
+	views: {
+      'side-menu21': {
     templateUrl: 'templates/kandiacultes.html',
     controller: 'kandiacultesCtrl'
+	  }
+	}
   })
 
   .state('menu.kanhaplacultes', {
