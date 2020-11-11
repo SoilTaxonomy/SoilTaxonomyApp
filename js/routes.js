@@ -3181,10 +3181,15 @@ angular.module('app.routes', [])
     }
   })
 
-  .state('fragiacultes', {
+
+  .state('menu.fragiacultes', {
     url: '/Fragiacultes',
-    templateUrl: 'templates/fragiacultes.html',
-    controller: 'fragiacultesCtrl'
+    views: {
+      'side-menu21': {
+        templateUrl: 'templates/fragiacultes.html',
+        controller: 'fragiacultesCtrl'
+      }
+    }
   })
 
   .state('menu.albacultes', {
