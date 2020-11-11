@@ -3202,10 +3202,14 @@ angular.module('app.routes', [])
     }
   })
 
-  .state('kandiacultes', {
+  .state('menu.kandiacultes', {
     url: '/Kandiacultes',
-    templateUrl: 'templates/kandiacultes.html',
-    controller: 'kandiacultesCtrl'
+    views: {
+      'side-menu21': {
+        templateUrl: 'templates/kandiacultes.html',
+        controller: 'kandiacultesCtrl'
+      }
+    }
   })
 
   .state('menu.kanhaplacultes', {
