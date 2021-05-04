@@ -15,19 +15,19 @@ Web version (updated - beta): https://taxosuelos.github.io/index.html
 <br>
          <div class="row">
 	<div class="column">
-    <img src="img/n92DIZ1lRJuVelGN2hus_Hapludol.jpg" style="height:125px;border:3px solid #555;"><!---Esto no sé si va a traer problemas en algunas pantallas, sino cargar imagen triple.jpg con ancho auto--->
+    <img src="https://lh3.googleusercontent.com/OPcKBYud8lRT3k6_54bVG7NMPI0CXNWDnGZgkl5PjX3lYCR11qLeBj2_QrsL4kaz=w720-h310" style="height:125px;border:3px solid #555;">
 	</div>
 	<div class="column">
     <p>&nbsp;</p>
 	</div>
 	<div class="column">
-    <img src="img/xQmoOq4DQxenwhEwimGe_Molisoles_cr300centro.jpg" style="height:125px;border:3px solid #555;">
+    <img src="https://lh3.googleusercontent.com/w-0Zft29O6DeN_0J7gREv251I5sGN6k-PT1xBiY-sghNuIpaZ7ZbJYO3XJp7SBVPyQ=w720-h310" style="height:125px;border:3px solid #555;">
 	</div>
 	<div class="column">
     <p>&nbsp;</p>
 	</div>
 	<div class="column">
-    <img src="img/CrM89EWgSjmNibiZjJlB_Molisoles1y2.jpeg"  style="height:125px;border:3px solid #555;">
+    <img src="https://lh3.googleusercontent.com/DXW4nU8DNKyeksd40HjlIkNiNz72KTyyal6VPQ0_77u_JDD8o1eiPozg-rYbAAoCRGY=w720-h310"  style="height:125px;border:3px solid #555;">
 	</div>
 	
  </div> 
