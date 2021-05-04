@@ -21,13 +21,13 @@ Web version (updated - beta): https://taxosuelos.github.io/index.html
     <p>&nbsp;</p>
 	</div>
 	<div class="column">
-    <img src="https://lh3.googleusercontent.com/w-0Zft29O6DeN_0J7gREv251I5sGN6k-PT1xBiY-sghNuIpaZ7ZbJYO3XJp7SBVPyQ=w720-h310" style="height:125px;border:3px solid #555;">
+    <img src="https://play-lh.googleusercontent.com/RnHPA-V5BoC50A6UEn9lwPBNLOTcVSHmJzauPAOh5iafbwdFR0gw1yHfzKxVthB_fTw=w1366-h654" style="height:125px;border:3px solid #555;">
 	</div>
 	<div class="column">
     <p>&nbsp;</p>
 	</div>
 	<div class="column">
-    <img src="https://lh3.googleusercontent.com/DXW4nU8DNKyeksd40HjlIkNiNz72KTyyal6VPQ0_77u_JDD8o1eiPozg-rYbAAoCRGY=w720-h310"  style="height:125px;border:3px solid #555;">
+    <img src="https://play-lh.googleusercontent.com/_siYKaW8W5IzV8q9xmW4MMJWQ_5iElr9uJXorA-CbEsaoNYRXQbzcamyg16pZhXic5XY=w1366-h654"  style="height:125px;border:3px solid #555;">
 	</div>
 	
  </div> 
